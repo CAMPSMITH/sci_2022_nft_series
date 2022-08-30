@@ -1,24 +1,12 @@
-# Project Name
+# SaveCusetaInlet 2022 NFT Series
 
-Project intro ...
+A NFT series benefiting SaveCuestaInlet, a community organized non-profit aiming to preserve Cuesta Inlet for the benefit of the community.
 
----
-
-## Technologies
-
-* **...** - ...
+[Visit SaveCuestaInlet site](https://savecuestainlet.org)
 
 ---
 
-## Installation Guide
 
-TBD ...
-
----
-
-## Usage
-
-TBD ...
 
 ---
 
